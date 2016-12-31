@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Tarefas</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.tasks %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}: {{ post.description | escape }}</a>
+        </h2>
+        
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
