@@ -23,6 +23,8 @@ url: "https://emanueles.github.io" # the base hostname & protocol for your site,
 twitter_username: emanueles
 github_username:  emanueles
 
+show_drafts: false
+
 collections:
     tasks:
       layout: page

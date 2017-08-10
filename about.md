@@ -9,9 +9,9 @@ permalink: /about/
 [Departamento de Computação](http://www.dc.ufc.br)<br>
 **Código:**  CKP8533 Visualização Científica / CK0155 - Tópicos Avançados em Computação Gráfica I / CK0242 - Visualização de Dados<br>
 **Professora:** [Emanuele Santos](/)<br>
-**Período:** 2016.1<br>
+**Período:** 2017.2<br>
 **Horário:** SEG-QUA 16-18<br>
-**Local:** Bloco 952, sala 2  
+**Local:** A definir  
 
 ### Visão Geral e objetivos da disciplina
 
@@ -46,7 +46,7 @@ O livro texto da disciplina é
 ### Ferramentas ###
 Em uma parte do curso usaremos [Tableau](http://www.tableau.com/data-visualization-software). Tableau's [data visualization software](http://www.tableau.com/data-visualization-software) is provided through the Tableau for Teaching program.
 
-Boa parte do curso consiste em construir nossas próprias visualizações e para isso utilizaremos Javascript, e algumas bibliotecas como [D3](www.d3js.org), [HighCharts](http://www.highcharts.com/) e outras.
+Boa parte do curso consiste em construir nossas próprias visualizações e para isso utilizaremos Javascript, e algumas bibliotecas como [D3](www.d3js.org) e outras.
 
 
 A ementa completa pode ser obtida [aqui](/datavis-course/assets/pdfs/ementa_datavis.pdf).
