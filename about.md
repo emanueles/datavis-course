@@ -46,7 +46,7 @@ O livro texto da disciplina é
 ### Ferramentas ###
 Em uma parte do curso usaremos [Tableau](http://www.tableau.com/data-visualization-software). Tableau's [data visualization software](http://www.tableau.com/data-visualization-software) is provided through the Tableau for Teaching program.
 
-Boa parte do curso consiste em construir nossas próprias visualizações e para isso utilizaremos Javascript, e algumas bibliotecas como [D3](www.d3js.org) e outras.
+Boa parte do curso consiste em construir nossas próprias visualizações e para isso utilizaremos Javascript, e algumas bibliotecas como [D3](www.d3js.org) e outras. Muitos [recursos interessantes](/datavis-course/resources/) estão disponíveis no site.
 
 
 A ementa completa pode ser obtida [aqui](/datavis-course/assets/pdfs/ementa_datavis.pdf).

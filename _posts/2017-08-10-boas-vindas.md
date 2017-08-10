@@ -1,8 +1,10 @@
 ---
-title: 'Site da Disciplina'
+title: 'Introdução'
 date: 2017-08-10
 layout: post
 categories: 
 ---
-O site está no ar. Foi enviado através do SIGAA e-mail com instruções para receber o compartilhamento no Dropbox. Se você não recebeu, veja a página de notícias no SIGAA.
+Bem-vindos ao curso de Visualização de Dados. As informações sobre a disciplinas estão [aqui](/datavis-course/about/). Uma versão inicial do [calendário de aulas](/datavis-course/calendar/) já está disponível.
+
+Você também pode dar uma olhada na página de [Recursos](/datavis-course/resources/) sobre Visualização.
 
