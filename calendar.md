@@ -31,15 +31,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>28/08/2017</b></td>
-      <td>Introdução à Visualização (cap.1)</td>
-    </tr>
-    <tr>
-      <td><b>30/08/2017</b></td>
       <td>Marcações e Canais (cap.5)</td>
     </tr>
     <tr>
-      <td><b>04/09/2017</b></td>
+      <td><b>30/08/2017</b></td>
       <td>Aula prática: Introdução ao Tableau</td>
+    </tr>
+    <tr>
+      <td><b>04/09/2017</b></td>
+      <td>Aula prática: Introdução ao Tableau (cont.)</td>
     </tr>
     <tr>
       <td><b>06/09/2017</b></td>
