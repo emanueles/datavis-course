@@ -51,7 +51,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>13/09/2017</b></td>
-      <td>Abstração de Tarefas (cap.3)</td>
+      <td>--</td>
     </tr>
     <tr>
       <td><b>18/09/2017</b></td>
@@ -59,7 +59,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>20/09/2016</b></td>
-      <td>Regras de ouro (Rules of Thumb) (cap.6) </td>
+      <td>Abstração de Tarefas (cap.3) e Regras de ouro (Rules of Thumb) (cap.6) </td>
     </tr>
     <tr>
       <td><b>25/09/2017</b></td>
@@ -71,7 +71,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>02/10/2017</b></td>
-      <td> Aula prática: Introdução ao Vega-Lite </td>
+      <td> Aula prática: D3 </td>
     </tr>
     <tr>
       <td><b>04/10/2017</b></td>
