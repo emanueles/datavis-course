@@ -12,15 +12,15 @@
   <tbody>
     <tr>
       <td><b>CAROLINA HERSTER MESQUITA JORGE</b></td>
-      <td>[Site](https://carolhmj.github.io/datavis-course/) [Repo](https://github.com/carolhmj/datavis-course)</td>
+      <td><a href="https://carolhmj.github.io/datavis-course>Site</a> <a href="https://github.com/carolhmj/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>FERNANDA LUIZA SIEWERDT</b></td>
-      <td>[Site](https://siewerdt.github.io/datavis-course/) [Repo](https://github.com/siewerdt/datavis-course)</td>
+      <td><a href="https://siewerdt.github.io/datavis-course/">Site</a> <a href="https://github.com/siewerdt/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>IGOR SANTOS BRITO</b></td>
-      <td>[Site](https://igorsbrito.github.io/datavis-course/) [Repo](https://github.com/igorsbrito/datavis-course)</td>
+      <td><a href="https://igorsbrito.github.io/datavis-course/">Site</a> <a href="https://github.com/igorsbrito/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>LUCAS MOREIRA DE VASCONCELOS</b></td>
