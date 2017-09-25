@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td><b>CAROLINA HERSTER MESQUITA JORGE</b></td>
-      <td><a href="https://carolhmj.github.io/datavis-course>Site</a> <a href="https://github.com/carolhmj/datavis-course">Repo</a></td>
+      <td><a href="https://carolhmj.github.io/datavis-course">Site</a> <a href="https://github.com/carolhmj/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>FERNANDA LUIZA SIEWERDT</b></td>
@@ -24,19 +24,19 @@
     </tr>
     <tr>
       <td><b>LUCAS MOREIRA DE VASCONCELOS</b></td>
-      <td>[Site](https://lucasvasconcelos8.github.io/datavis-course/) [Repo](https://github.com/lucasvasconcelos8/datavis-course)</td>
+      <td><a href="https://lucasvasconcelos8.github.io/datavis-course/">Site</a> <a href="https://github.com/lucasvasconcelos8/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>MARIANA FONTENELE LOPES</b></td>
-      <td>[Site](https://marianafl.github.io/ufcvisdata/) [Repo](https://github.com/MarianaFL/ufcvisdata)</td>
+      <td><a href="https://marianafl.github.io/ufcvisdata/">Site</a> <a href="https://github.com/MarianaFL/ufcvisdata">Repo</a></td>
     </tr>
     <tr>
       <td><b>VICTOR HUGO SENA MOTA DA SILVEIRA</b></td>
-      <td>[Site](https://hugosena1.github.io/datavis-course/) [Repo](https://github.com/hugosena1/datavis-course)</td>
+      <td><a href="https://hugosena1.github.io/datavis-course/">Site</a> <a href="https://github.com/hugosena1/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>AMAURY CONDE Y MARTIN NETO</b></td>
-      <td>[Site](https://amaurymartin.github.io/datavis-course/) [Repo](https://github.com/amaurymartin/datavis-course)</td>
+      <td><a href="https://amaurymartin.github.io/datavis-course/">Site</a> <a href="https://github.com/amaurymartin/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>BRENO NEGREIROS PINTO</b></td>
