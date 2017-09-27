@@ -122,7 +122,7 @@
   <tbody>
     <tr>
       <td><b>ADRIANO LIMA CÂNDIDO</b></td>
-      <td><a href="https://kelvezu55.github.io/datavis-course/">Site</a> [<a href="https://github.com/kelvezu55/datavis-course/">Repo</a></td>
+      <td><a href="https://kelvezu55.github.io/datavis-course/">Site</a> <a href="https://github.com/kelvezu55/datavis-course/">Repo</a></td>
     </tr>
     <tr>
       <td><b>ALEXANDRE RIBEIRO CAJAZEIRA RAMOS</b></td>
@@ -162,7 +162,7 @@
     </tr>
      <tr>
       <td><b>FRANCISCO ANDERSON DE ALMADA GOMES</b></td>
-      <td><a href="https://andersonalmada.github.io/datavis-course/">Site</a> [<a href="https://github.com/andersonalmada/datavis-course">Repo</a></td>
+      <td><a href="https://andersonalmada.github.io/datavis-course/">Site</a> <a href="https://github.com/andersonalmada/datavis-course">Repo</a></td>
     </tr>
      <tr>
       <td><b>LUCAS GONÇALVES DE MOURA LEITE</b></td>
