@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td><b>MARIANA FONTENELE LOPES</b></td>
-      <td><a href="https://marianafl.github.io/ufcvisdata/">Site</a> <a href="https://github.com/MarianaFL/ufcvisdata">Repo</a></td>
+      <td><a href="https://marianafl.github.io/datavis-course/">Site</a> <a href="https://github.com/MarianaFL/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>VICTOR HUGO SENA MOTA DA SILVEIRA</b></td>
