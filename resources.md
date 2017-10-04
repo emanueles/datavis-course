@@ -26,6 +26,8 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 
 * [USGS Earthquakes](http://earthquake.usgs.gov/data/) Dados de terremotos
 
+* [UK Road Safety Data](https://data.gov.uk/dataset/road-accidents-safety-data) Dados de acidentes em estradas do Reino Unido desde 1979
+
 * [GeoLife GPS Trajectories](http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/) Dados de trajetória coletados e disponibilizados pela Microsoft Research Asia
 
 * [VAST Challenge 2015](http://vacommunity.org/VAST+Challenge+2015) e [VAST Challenge 2014](http://www.vacommunity.org/VAST+Challenge+2014) Dados dos desafios de Visualização lançados pela conferência IEEE VAST
@@ -76,14 +78,19 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 
 * [D3](https://d3js.org/)
 
-* [Highcharts](http://www.highcharts.com/)
-
-* [Crossfilter](http://square.github.io/crossfilter/)
+* [Crossfilter](http://crossfilter.github.io/crossfilter/)
 
 * [dc.js](https://dc-js.github.io/dc.js/)
 
+### Linguagens declarativas
+
+* [Vega](https://vega.github.io/vega) & [Vega-Lite](https://vega.github.io/vega-lite) Visualization Grammars
+
 
 ## Manipulação de Dados
+
+* [Manipulação de Dados em JavaScript](http://learnjsdata.com/)
+
 
 ## Blogs
 
@@ -100,12 +107,18 @@ Alguns livros muito interessantes de Visualização e áreas afins:
 
 * [CAIRO, Alberto. The functional Art. New Riders. 2012](https://www.amazon.com.br/Functional-Art-introduction-information-visualization-ebook/dp/B0091SXDOM/ref=sr_1_1?ie=UTF8&qid=1461176116&sr=8-1&keywords=the+functional+art)
 
-* [MURRAY, Scott. Interactive Data Visualization for the Web. O'Reilly. 2013.](https://www.amazon.com.br/Interactive-Data-Visualization-Scott-Murray-ebook/dp/B00BSG68UQ/ref=pd_sim_351_9?ie=UTF8&refRID=9VN494HC1KPJGYM4XK3G)
+* [MURRAY, Scott. Interactive Data Visualization for the Web. O'Reilly. 2017.](https://www.amazon.com.br/Interactive-Data-Visualization-Web-Introduction-ebook/dp/B074JKZ9Z3/ref=sr_1_1?ie=UTF8&qid=1507125941&sr=8-1&keywords=interactive+data+visualization+for+the+web)
 
 * [WARE, Collin. Information Visualization: Perception for Design. 3 ed. Morgan Kaufmann. 2013](https://www.amazon.com.br/Information-Visualization-Perception-Interactive-Technologies-ebook/dp/B0083JCI3W/ref=pd_sim_351_17?ie=UTF8&refRID=9VN494HC1KPJGYM4XK3G)
 
 * [MEIRELES, Isabel. Design for Information. Rockport Publishers. 2013.](http://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061/ref=sr_1_1?ie=UTF8&qid=1461180011&sr=8-1&keywords=design+for+information)
 
-## Artigos
+## Posts e tutoriais
+
+* [The Hitchhiker’s Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
+
+* [24 Data Viz Sites to Improve Your Next Data Design Project](https://uxplanet.org/21-data-visualization-links-e9c33f845b4c)
+
+* [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 
 
