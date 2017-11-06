@@ -92,7 +92,7 @@
     </tr>
     <tr>
       <td><b>REGINALDO DA SILVA MUNIZ</b></td>
-      <td><a href="https://reginaldomuniz.github.io/datavis-course/">Site</a> <a href="https://github.com/reginaldomuniz">Repo</a></td>
+      <td><a href="https://reginaldomuniz.github.io/datavis-course/">Site</a> <a href="https://github.com/reginaldomuniz/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>THAIS MARINHO DE AMORIM</b></td>
