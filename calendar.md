@@ -119,7 +119,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>13/11/2017</b></td>
-      <td> Manipulação de visões e múltiplas visões (cap. 11 e 12) </td>
+      <td> Estratégias para lidar com a Complexidade (caps. 11-13) </td>
     </tr>
     <tr>
       <td><b>15/11/2017</b></td>
@@ -127,11 +127,11 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>20/11/2017</b></td>
-      <td> Aula prática </td>
+      <td> Aula prática sobre Estratégias para Lidar com a Complexidade </td>
     </tr>
     <tr>
       <td><b>22/11/2017</b></td>
-      <td> Foco e contexto (cap. 13)</td>
+      <td> -- Trabalhar nas apresentações e nos projetos finais</td>
     </tr>
     <tr>
       <td><b>27/11/2017</b></td>
