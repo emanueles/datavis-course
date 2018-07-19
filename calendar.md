@@ -18,148 +18,156 @@ permalink: /calendar/
   <tbody>
 
     <tr>
-      <td><b>16/08/2017</b></td>
+      <td><b>06/08/2018</b></td>
       <td>Apresentação da disciplina</td>
     </tr>
     <tr>
-      <td><b>21/08/2017</b></td>
-      <td>SAC - Não haverá aula</td>
-    </tr>
-    <tr>
-      <td><b>23/08/2017</b></td>
-      <td>SAC - Não haverá aula</td>
-    </tr>
-    <tr>
-      <td><b>28/08/2017</b></td>
+      <td><b>08/08/2018</b></td>
       <td>Marcações e Canais (cap.5)</td>
     </tr>
     <tr>
-      <td><b>30/08/2017</b></td>
-      <td>Aula prática: Introdução ao Tableau</td>
+      <td><b>13/08/2018</b></td>
+      <td>Introdução ao Tableau Parte I</td>
     </tr>
     <tr>
-      <td><b>04/09/2017</b></td>
-      <td>Aula prática: Introdução ao Tableau (cont.)</td>
+      <td><b>15/08/2018</b></td>
+      <td>Feriado</td>
     </tr>
     <tr>
-      <td><b>06/09/2017</b></td>
-      <td> Abstração de Dados (cap.2) </td>
+      <td><b>20/08/2018</b></td>
+      <td>Introdução ao Tableau Parte II</td>
     </tr>
     <tr>
-      <td><b>11/09/2017</b></td>
-      <td>Aula prática: Tableau</td>
+      <td><b>22/08/2018</b></td>
+      <td>Introdução ao Tableau Parte III</td>
     </tr>
     <tr>
-      <td><b>13/09/2017</b></td>
-      <td>--</td>
+      <td><b>27/08/2018</b></td>
+      <td> Abstração de Dados (cap.2) (EAD)</td>
     </tr>
     <tr>
-      <td><b>18/09/2017</b></td>
-      <td>Aula prática: Tecnologias Web</td>
+      <td><b>29/08/2018</b></td>
+      <td>Introdução ao Tableau Parte IV</td>
     </tr>
     <tr>
-      <td><b>20/09/2016</b></td>
-      <td>Abstração de Tarefas (cap.3) e Regras de ouro (Rules of Thumb) (cap.6) </td>
+      <td><b>03/09/2018</b></td>
+      <td>Tecnologias Web Parte I</td>
     </tr>
     <tr>
-      <td><b>25/09/2017</b></td>
-      <td>Aula prática: Introdução ao D3</td>
+      <td><b>05/09/2018</b></td>
+      <td>Tecnologias Web Parte II</td>
     </tr>
     <tr>
-      <td><b>27/09/2017</b></td>
-      <td> Análise: 4 níveis de validação (cap.4)  </td>
+      <td><b>10/09/2018</b></td>
+      <td>Abstração de Tarefas (cap.3) e Regras de ouro (Rules of Thumb) (cap.6) (EAD) </td>
     </tr>
     <tr>
-      <td><b>02/10/2017</b></td>
-      <td> Aula prática: D3 </td>
+      <td><b>12/09/2018</b></td>
+      <td>Introdução ao D3</td>
     </tr>
     <tr>
-      <td><b>04/10/2017</b></td>
-      <td> Tabelas (cap.7)   </td>
+      <td><b>17/09/2018</b></td>
+      <td>  D3 </td>
     </tr>
     <tr>
-      <td><b>09/10/2017</b></td>
-      <td> Aula prática: Tabelas em D3 + crossfilter + dc.js</td>
+      <td><b>19/09/2018</b></td>
+      <td> D3 </td>
     </tr>
     <tr>
-      <td><b>11/10/2017</b></td>
-      <td> Dados espaciais (cap. 8)</td>
+      <td><b>24/09/2018</b></td>
+      <td> Tabelas (cap.7) (EAD)  </td>
     </tr>
     <tr>
-      <td><b>16/10/2017</b></td>
-      <td> Não haverá aula - SIBGRAPI 2017</td>
+      <td><b>26/09/2018</b></td>
+      <td> Visualização de dados tabulares</td>
     </tr>
     <tr>
-      <td><b>18/10/2017</b></td>
-      <td> Não haverá aula - SIBGRAPI 2017</td>
+      <td><b>01/10/2018</b></td>
+      <td> Visualização de dados tabulares </td>
     </tr>
     <tr>
-      <td><b>23/10/2017</b></td>
-      <td> Aula prática: dados espaciais em D3 + leaflet </td>
+      <td><b>03/10/2018</b></td>
+      <td> Visualização de dados tabulares</td>
     </tr>
     <tr>
-      <td><b>25/10/2017</b></td>
-      <td>  Redes e Grafos (cap. 9)</td>
+      <td><b>08/10/2018</b></td>
+      <td> Dados espaciais (cap. 8) (EAD)</td>
     </tr>
     <tr>
-      <td><b>30/10/2017</b></td>
+      <td><b>10/10/2018</b></td>
+      <td> Visualização de Dados espaciais em D3 + leaflet </td>
+    </tr>
+    <tr>
+      <td><b>15/10/2018</b></td>
+      <td> Recesso escolar: Dia do Professor</td>
+    </tr>
+    <tr>
+      <td><b>17/10/2018</b></td>
+      <td> Redes e Grafos (cap. 9) (EAD) </td>
+    </tr>
+    <tr>
+      <td><b>22/10/2018</b></td>
       <td> Aula prática: Redes e Grafos </td>
     </tr>
     <tr>
-      <td><b>01/11/2017</b></td>
-      <td> Cor (cap.10) </td>
-    </tr>
-    <tr>
-      <td><b>06/11/2017</b></td>
-      <td> Aula prática </td>
-    </tr>
-    <tr>
-      <td><b>08/11/2017</b></td>
+      <td><b>24/10/2018</b></td>
       <td> Não haverá aula - Encontros Universitários </td>
     </tr>
     <tr>
-      <td><b>13/11/2017</b></td>
-      <td> Estratégias para lidar com a Complexidade (caps. 11-13) </td>
+      <td><b>29/10/2018</b></td>
+      <td> Cor (cap. 10) (EAD) </td>
     </tr>
     <tr>
-      <td><b>15/11/2017</b></td>
-      <td> Não haverá aula - Feriado da Proclamação da República </td>
+      <td><b>31/10/2018</b></td>
+      <td> Mapas de cor em Visualizações</td>
     </tr>
     <tr>
-      <td><b>20/11/2017</b></td>
-      <td> Aula prática sobre Estratégias para Lidar com a Complexidade </td>
+      <td><b>05/11/2018</b></td>
+      <td> Estratégias para lidar com a Complexidade (Parte I)</td>
     </tr>
     <tr>
-      <td><b>22/11/2017</b></td>
-      <td> -- Trabalhar nas apresentações e nos projetos finais</td>
+      <td><b>07/11/2018</b></td>
+      <td> Estratégias para Lidar com a Complexidade (Parte II)</td>
     </tr>
     <tr>
-      <td><b>27/11/2017</b></td>
+      <td><b>12/11/2018</b></td>
+      <td> Apresentações de artigo por alunos da pós</td>
+    </tr>
+    <tr>
+      <td><b>14/11/2018</b></td>
       <td> Apresentações de artigo por alunos da pós </td>
     </tr>
     <tr>
-      <td><b>29/11/2017</b></td>
+      <td><b>19/11/2018</b></td>
       <td> Apresentações de artigo por alunos da pós </td>
     </tr>
     <tr>
-      <td><b>04/12/2017</b></td>
+      <td><b>21/11/2018</b></td>
       <td> Apresentações de artigo por alunos da pós </td>
     </tr>
     <tr>
-      <td><b>06/12/2017</b></td>
-      <td> Apresentação projeto final (graduação)  </td>
+      <td><b>26/11/2018</b></td>
+      <td> Apresentações de artigo por alunos da pós  </td>
     </tr>
     <tr>
-      <td><b>11/12/2017</b></td>
-      <td>  Apresentação projeto final (graduação) </td>
+      <td><b>28/11/2018</b></td>
+      <td> Apresentação projeto final (graduação) </td>
     </tr>
     <tr>
-      <td><b>13/12/2017</b></td>
-      <td>  Apresentação projeto final (pós-graduação)</td>
+      <td><b>03/12/2018</b></td>
+      <td>Apresentação projeto final (graduação)</td>
     </tr>
     <tr>
-      <td><b>18/12/2017</b></td>
+      <td><b>05/12/2018</b></td>
       <td> Apresentação projeto final (pós-graduação) </td>
+    </tr>
+    <tr>
+      <td><b>10/12/2018</b></td>
+      <td> Apresentação projeto final (pós-graduação)</td>
+    </tr>
+    <tr>
+      <td><b>12/12/2018</b></td>
+      <td> Avaliação Final </td>
     </tr>
     </tbody>
 </table>

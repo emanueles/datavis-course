@@ -7,11 +7,11 @@ permalink: /about/
 ## Visualização de Dados
 [Universidade Federal do Ceará](http://www.ufc.br)<br>
 [Departamento de Computação](http://www.dc.ufc.br)<br>
-**Código:**  CKP8533 Visualização Científica / CK0155 - Tópicos Avançados em Computação Gráfica I / CK0242 - Visualização de Dados<br>
+**Código:**  CKP8533 Visualização Científica / CK0242 - Visualização de Dados<br>
 **Professora:** [Emanuele Santos](/)<br>
-**Período:** 2017.2<br>
-**Horário:** SEG-QUA 16-18<br>
-**Local:** A definir  
+**Período:** 2018.2<br>
+**Horário:** SEG-QUA 18-20<br>
+**Local:** LEC I  
 
 ### Visão Geral e objetivos da disciplina
 
