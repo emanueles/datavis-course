@@ -118,7 +118,7 @@ Alguns livros muito interessantes de Visualização e áreas afins:
 
 * [CAIRO, Alberto. The functional Art. New Riders. 2012](https://www.amazon.com.br/Functional-Art-introduction-information-visualization-ebook/dp/B0091SXDOM/ref=sr_1_1?ie=UTF8&qid=1461176116&sr=8-1&keywords=the+functional+art)
 
-* [CAIRO, Alberto. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 2016] (https://www.amazon.com.br/Truthful-Art-Data-Charts-Communication-ebook/dp/B01BLN09U0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1533149204&sr=8-1)
+* [CAIRO, Alberto. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 2016](https://www.amazon.com.br/Truthful-Art-Data-Charts-Communication-ebook/dp/B01BLN09U0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1533149204&sr=8-1)
 
 * [MURRAY, Scott. Interactive Data Visualization for the Web. O'Reilly. 2017.](https://www.amazon.com.br/Interactive-Data-Visualization-Web-Introduction-ebook/dp/B074JKZ9Z3/ref=sr_1_1?ie=UTF8&qid=1507125941&sr=8-1&keywords=interactive+data+visualization+for+the+web)
 
