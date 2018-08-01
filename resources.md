@@ -92,6 +92,10 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 * [Manipulação de Dados em JavaScript](http://learnjsdata.com/)
 
 
+## Livros
+
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)
+
 ## Blogs
 
 * [Eagereyes](https://eagereyes.org/)
