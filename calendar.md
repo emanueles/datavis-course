@@ -55,7 +55,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>05/09/2018</b></td>
-      <td>Tecnologias Web Parte II</td>
+      <td>Tecnologias Web Parte II (Introdução ao D3)</td>
     </tr>
     <tr>
       <td><b>10/09/2018</b></td>
@@ -63,7 +63,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>12/09/2018</b></td>
-      <td>Introdução ao D3</td>
+      <td>  D3</td>
     </tr>
     <tr>
       <td><b>17/09/2018</b></td>
