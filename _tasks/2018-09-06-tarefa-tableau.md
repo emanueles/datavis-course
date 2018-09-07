@@ -47,7 +47,7 @@ Use a a visualização acima para responder:
 
 Em uma das aulas passadas, você aprendeu a fazer uma visualização dos crimes de Fortaleza para o ano de 2012. A visualização no entanto apresenta problemas porque os dados não levam em consideração a população do bairro e normalmente a taxa de homicídios é mostrada em número de homicídios por 100.000 habitantes.
 
-Use os arquivos apresentados em sala ([dados e o geojson](https://drive.google.com/open?id=1nC7dJgJhb_WbdjUT2bdniTum_sBRHgso) e mais o arquivo [Excel](https://drive.google.com/open?id=1nDy_y9zf8GvdtSameDV2qojQzKUn_iTj) para extrair os dados populacionais por bairro. Note que talvez você precise gerar um arquivo manualmente com os dados limpos. Crie um campo calculado com a taxa de homicídios por habitante e use essa informação para gerar o novo mapa. Na visualização, indique os 5 bairros mais perigosos. 
+Para essa tarefa, serão disponibilizados os dados de homicídios mês a mês e o mesmo arquivo geojson apresentado em sala ([dados e o geojson](https://drive.google.com/open?id=1nC7dJgJhb_WbdjUT2bdniTum_sBRHgso). Além disso, use o arquivo [Excel](https://drive.google.com/open?id=1nDy_y9zf8GvdtSameDV2qojQzKUn_iTj) para extrair os dados populacionais por bairro. Note que talvez você precise gerar um arquivo manualmente com os dados limpos. Crie um campo calculado com a taxa de homicídios por habitante e use essa informação para gerar o novo mapa. Na visualização, indique os 5 bairros mais perigosos. Crie um dashboard para explorar as informações de homicídios espacialmente e temporalmente.
 
 **Exporte o arquivo como Packaged Workbook (possui a extensão .twbx) com o nome parte2.twbx e inclua no arquivo zip a ser submetido.** 
 
