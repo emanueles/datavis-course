@@ -6,7 +6,7 @@ layout: post
 categories: tarefa tableau
 ---
 
-A data limite dessa tarefa é 23:59h do dia 21/09/2017. **Você deverá compactar todos os arquivos pedidos em um único arquivo zip e enviá-lo pelo SIGAA. Se o arquivo ficar maior que 10MB, coloque-o disponível na nuvem e envie apenas o link no SIGAA.**
+A data limite dessa tarefa é 23:59h do dia 21/09/2018. **Você deverá compactar todos os arquivos pedidos em um único arquivo zip e enviá-lo pelo SIGAA. Se o arquivo ficar maior que 10MB, coloque-o disponível na nuvem e envie apenas o link no SIGAA.**
 
 O objetivo principal dessa tarefa é certificar-se que você se familiarizou com os conceitos básicos do Tableau e saberá utilizá-lo ao longo da disciplina.
 
