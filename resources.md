@@ -14,6 +14,10 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 
 ### Internacionais
 
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+* [Storytelling with data incomplete list of datasets](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit)
+
 * [UBC InfoVis Group Data Repositories](http://www.cs.ubc.ca/group/infovis/resources.shtml#data-repos) Lista de repositórios catalogada pelo grupo da Tamara
 
 * [1001 Datasets and Data repositories ( List of lists of lists )](https://dreamtolearn.com/ryan/1001_datasets) Lista de listas de repositórios de dados compilada por Ryan Anderson
