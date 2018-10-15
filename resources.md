@@ -118,27 +118,29 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 ## Livros ##
 Alguns livros muito interessantes de Visualização e áreas afins:
 
-* [MUNZNER, Tamara. Visualization Analysis and Design. A K Peters Visualization series. 2014.](https://www.amazon.com.br/Visualization-Analysis-Design-AK-Peters-ebook/dp/B00OGLE3XE/ref=sr_1_5?ie=UTF8&qid=1458475824&sr=8-5&keywords=munzner)
+_(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 
-* [CAIRO, Alberto. The functional Art. New Riders. 2012](https://www.amazon.com.br/Functional-Art-introduction-information-visualization-ebook/dp/B0091SXDOM/ref=sr_1_1?ie=UTF8&qid=1461176116&sr=8-1&keywords=the+functional+art)
+* [MUNZNER, Tamara. Visualization Analysis and Design. A K Peters Visualization series. 2014.](https://www.amazon.com.br/gp/product/1466508914/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1466508914&linkCode=as2&tag=emanueles-20&linkId=d50cdb0815367e80e4ee78178ffd922d)
 
-* [CAIRO, Alberto. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 2016](https://www.amazon.com.br/Truthful-Art-Data-Charts-Communication-ebook/dp/B01BLN09U0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1533149204&sr=8-1)
+* [CAIRO, Alberto. The functional Art. New Riders. 2012](https://www.amazon.com.br/gp/product/B0091SXDOM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B0091SXDOM&linkId=18ff427a4a828efb6a59fff7202a617f)
 
-* [MURRAY, Scott. Interactive Data Visualization for the Web. O'Reilly. 2017.](https://www.amazon.com.br/Interactive-Data-Visualization-Web-Introduction-ebook/dp/B074JKZ9Z3/ref=sr_1_1?ie=UTF8&qid=1507125941&sr=8-1&keywords=interactive+data+visualization+for+the+web)
+* [CAIRO, Alberto. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. 2016](https://www.amazon.com.br/gp/product/0321934075/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=0321934075&linkId=60bc6dca062ce66990b7dbc3b42e5066)
 
-* [KIRK, Andy. Data Visualisation: A Handbook for Data Driven Design. SAGE Publications Ltd. 2016](https://www.amazon.com.br/Data-Visualisation-Handbook-Driven-Design-ebook/dp/B01G2C5VCG?__mk_pt_BR=ÅMÅŽÕÑ&keywords=andy+kirk+data+visualisation&qid=1533149302&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
+* [MURRAY, Scott. Interactive Data Visualization for the Web. O'Reilly. 2017.](https://www.amazon.com.br/gp/product/B074JKZ9Z3/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B074JKZ9Z3&linkId=0e21b806013be1d7748e82974c9fba35)
 
-* [KNAFLIC, Cole Nussbaumer. Storytelling with Data: A Data Visualization Guide for Business Professionals. Wiley. 2015](https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Cole+storytelling+with+data&qid=1533149374&sr=1-1-catcorr&ref=sr_1_1)
+* [KIRK, Andy. Data Visualisation: A Handbook for Data Driven Design. SAGE Publications Ltd. 2016](https://www.amazon.com.br/gp/product/B01G2C5VCG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B01G2C5VCG&linkId=a71273d49618e012ef6a922f54d1e31d)
 
-* [WARE, Collin. Information Visualization: Perception for Design. 3 ed. Morgan Kaufmann. 2013](https://www.amazon.com.br/Information-Visualization-Perception-Interactive-Technologies-ebook/dp/B0083JCI3W/ref=pd_sim_351_17?ie=UTF8&refRID=9VN494HC1KPJGYM4XK3G)
+* [KNAFLIC, Cole Nussbaumer. Storytelling with Data: A Data Visualization Guide for Business Professionals. Wiley. 2015](https://www.amazon.com.br/gp/product/B016DHQSM2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B016DHQSM2&linkId=0a3a6aaccb0a3ca2240d0dca74cfa420)
 
-* [MEIRELES, Isabel. Design for Information. Rockport Publishers. 2013.](http://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061/ref=sr_1_1?ie=UTF8&qid=1461180011&sr=8-1&keywords=design+for+information)
+* [WARE, Collin. Information Visualization: Perception for Design. 3 ed. Morgan Kaufmann. 2013](https://www.amazon.com.br/gp/product/B0083JCI3W/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B0083JCI3W&linkId=026138080e7c73ab10e08ff322e91892)
+
+* [MEIRELES, Isabel. Design for Information. Rockport Publishers. 2013.](https://www.amazon.com.br/gp/product/1592538061/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=1592538061&linkId=1b8aa6966c4a9b52a3fe6c98bb02e2b8)
 
 * [WILKE, Claus O. Fundamentals of Data Visualization (free, available online)](https://serialmentor.com/dataviz/index.html)
 
-* [FEW, Stephen. Show me the numbers: Designing tables and graphs to enlighten. Analytics Press; Second Edition. 2012](https://www.amazon.com.br/Show-Me-Numbers-Designing-Enlighten/dp/0970601972?keywords=show+me+the+numbers&qid=1533151222&sr=1-1&ref=sr_1_1)
+* [FEW, Stephen. Show me the numbers: Designing tables and graphs to enlighten. Analytics Press; Second Edition. 2012](https://www.amazon.com.br/gp/product/0970601972/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=0970601972&linkId=410068d38d85673023dad6eb0c9e3181)
 
-* [WONG, Dona M. The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures. W. W. Norton & Company. 2013](https://www.amazon.com.br/Street-Journal-Guide-Information-Graphics/dp/0393347281/ref=pd_sbs_14_5?_encoding=UTF8&pd_rd_i=0393347281&pd_rd_r=f3c0f042-95bf-11e8-8796-e9051bf0b399&pd_rd_w=rPDMY&pd_rd_wg=kVTrM&pf_rd_i=desktop-dp-sims&pf_rd_m=A1ZZFT5FULY4LN&pf_rd_p=9027860271305903419&pf_rd_r=YSFHMF5GHDX5VWPNQ9GN&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=YSFHMF5GHDX5VWPNQ9GN)
+* [WONG, Dona M. The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures. W. W. Norton & Company. 2013](https://www.amazon.com.br/gp/product/0393347281/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=0393347281&linkId=e3ce0d3dc80c5f824031bc76244284b1)
 
 ## Posts e tutoriais
 
