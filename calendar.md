@@ -103,7 +103,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>17/10/2018</b></td>
-      <td>  Cor (cap. 10) (EAD) </td>
+      <td>  Cor (cap. 10) </td>
     </tr>
     <tr>
       <td><b>22/10/2018</b></td>
