@@ -143,11 +143,11 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>21/11/2018</b></td>
-      <td> Apresentação projeto final (graduação) </td>
+      <td> ~~Apresentação projeto final (graduação)~~ </td>
     </tr>
     <tr>
       <td><b>26/11/2018</b></td>
-      <td> Apresentação projeto final (graduação)  </td>
+      <td> ~~Apresentação projeto final (graduação)~~  </td>
     </tr>
     <tr>
       <td><b>28/11/2018</b></td>
@@ -155,7 +155,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>03/12/2018</b></td>
-      <td>Apresentação projeto final (pós-graduação) </td>
+      <td>Apresentação projeto final (graduação) </td>
     </tr>
     <tr>
       <td><b>05/12/2018</b></td>

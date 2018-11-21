@@ -3,7 +3,7 @@ title: 'Repositórios dos Alunos'
 date: '2018-10-22'
 description: Lista de repositórios e github pages dos alunos 
 layout: post
-categories: artigos
+categories: 
 ---
 
 # Repositórios dos alunos
