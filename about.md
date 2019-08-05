@@ -50,4 +50,4 @@ Em uma parte do curso usaremos [Tableau](http://www.tableau.com/data-visualizati
 Boa parte do curso consiste em construir nossas próprias visualizações e para isso utilizaremos Javascript, e algumas bibliotecas como [D3](www.d3js.org) e outras. Muitos [recursos interessantes](/datavis-course/resources/) estão disponíveis no site.
 
 
-A ementa completa pode ser obtida [aqui](/datavis-course/assets/pdfs/ementa_datavis.pdf).
+O plano de ensino completo pode ser obtido [aqui](/datavis-course/assets/pdfs/plano_de_ensino_datavis.pdf).
