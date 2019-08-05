@@ -26,10 +26,10 @@ github_username:  emanueles
 show_drafts: false
 
 collections:
-  tasks:
-      layout: page
-      output: true
-      paginate: 5
+  # tasks:
+  #     layout: page
+  #     output: true
+  #     paginate: 5
 
 # Build settings
 markdown: kramdown

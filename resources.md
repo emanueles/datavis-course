@@ -58,6 +58,8 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 
 * [Tableau](http://www.tableau.com/data-visualization-software). Tableau's [data visualization software](http://www.tableau.com/data-visualization-software) is provided through the Tableau for Teaching program.
 
+* [Observable](https://observablehq.com/) 
+
 * [Flourish](https://flourish.studio/)
 
 * [Datawrapper](https://www.datawrapper.de/)  
@@ -121,6 +123,8 @@ Alguns livros muito interessantes de Visualização e áreas afins:
 _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 
 * [MUNZNER, Tamara. Visualization Analysis and Design. A K Peters Visualization series. 2014.](https://www.amazon.com.br/gp/product/1466508914/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1466508914&linkCode=as2&tag=emanueles-20&linkId=d50cdb0815367e80e4ee78178ffd922d)
+
+* [WILKE, Claus O. Fundamentals of Data Visualization. O'Reilly. 2019.](http://serialmentor.com/dataviz) *(Disponível online)*
 
 * [CAIRO, Alberto. The functional Art. New Riders. 2012](https://www.amazon.com.br/gp/product/B0091SXDOM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B0091SXDOM&linkId=18ff427a4a828efb6a59fff7202a617f)
 
