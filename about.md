@@ -40,7 +40,7 @@ Os livros adotados na disciplina são:
  
 * [MUNZNER, Tamara. Visualization Analysis and Design. A K Peters Visualization series. 2014.](https://www.amazon.com.br/Visualization-Analysis-Design-AK-Peters-ebook/dp/B00OGLE3XE/ref=sr_1_5?ie=UTF8&qid=1458475824&sr=8-5&keywords=munzner)
 
-** [WILKE, Claus O. Fundamentals of Data Visualization. O'Reilly. 2019.](http://serialmentor.com/dataviz) *(Disponível online)* 
+* [WILKE, Claus O. Fundamentals of Data Visualization. O'Reilly. 2019.](http://serialmentor.com/dataviz) *(Disponível online)* 
 
 (ver outros livros em [recursos](/datavis-course/resources))
 
