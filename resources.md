@@ -140,8 +140,6 @@ _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 
 * [MEIRELES, Isabel. Design for Information. Rockport Publishers. 2013.](https://www.amazon.com.br/gp/product/1592538061/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=1592538061&linkId=1b8aa6966c4a9b52a3fe6c98bb02e2b8)
 
-* [WILKE, Claus O. Fundamentals of Data Visualization (free, available online)](https://serialmentor.com/dataviz/index.html)
-
 * [FEW, Stephen. Show me the numbers: Designing tables and graphs to enlighten. Analytics Press; Second Edition. 2012](https://www.amazon.com.br/gp/product/0970601972/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=0970601972&linkId=410068d38d85673023dad6eb0c9e3181)
 
 * [WONG, Dona M. The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures. W. W. Norton & Company. 2013](https://www.amazon.com.br/gp/product/0393347281/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=0393347281&linkId=e3ce0d3dc80c5f824031bc76244284b1)
