@@ -7,9 +7,9 @@ permalink: /about/
 ## Visualização de Dados
 [Universidade Federal do Ceará](http://www.ufc.br)<br>
 [Departamento de Computação](http://www.dc.ufc.br)<br>
-**Código:**  CKP8533 Visualização Científica / CK0242 - Visualização de Dados<br>
+**Código:**  CKP8533 Visualização Científica / CK0266 - Visualização de Dados<br>
 **Professora:** [Emanuele Santos](/)<br>
-**Período:** 2018.2<br>
+**Período:** 2019.2<br>
 **Horário:** SEG-QUA 18-20<br>
 **Local:** LEC I  
 
@@ -33,15 +33,16 @@ Nesta disciplina, estudaremos os **princípios, técnicas e ferramentas necessá
 * Visualização de dados espaciais (campos escalares: linhas de contorno, mapas, mapa coroplético, isosuperfícies, visualização volumétrica; campos vetoriais: glyphs, textura; campos tensoriais)
 * Visualização de redes e árvores
 * Mapeamento de cor
-* Manipulação de visão (seleção, navegação)
-* Múltiplas visões (visões coordenadas)
-* Redução de itens e atributos (filtragem e agregação)
-* Foco e contexto.
+* Estratégias para lidar com complexidade em visualizações
 
 ### Bibliografia ###
-O livro texto da disciplina é
+Os livros adotados na disciplina são:
  
 * [MUNZNER, Tamara. Visualization Analysis and Design. A K Peters Visualization series. 2014.](https://www.amazon.com.br/Visualization-Analysis-Design-AK-Peters-ebook/dp/B00OGLE3XE/ref=sr_1_5?ie=UTF8&qid=1458475824&sr=8-5&keywords=munzner)
+
+** [WILKE, Claus O. Fundamentals of Data Visualization. O'Reilly. 2019.](http://serialmentor.com/dataviz) *(Disponível online)* 
+
+(ver outros livros em [recursos](/datavis-course/resources))
 
 ### Ferramentas ###
 Em uma parte do curso usaremos [Tableau](http://www.tableau.com/data-visualization-software). Tableau's [data visualization software](http://www.tableau.com/data-visualization-software) is provided through the Tableau for Teaching program.
