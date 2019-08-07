@@ -63,7 +63,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>09/09/2019</b></td>
-      <td> Introdução ao D3 - parte 3 (updates e transitions) </td>
+      <td> Introdução ao D3 - parte 3 (updates e transitions) (EAD)</td>
     </tr>
     <tr>
       <td><b>11/09/2019</b></td>
