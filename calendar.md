@@ -47,7 +47,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>28/08/2019</b></td>
-      <td>>Introdução ao Tableau Parte V (EAD)</td>
+      <td>Introdução ao Tableau Parte V (EAD)</td>
     </tr>
     <tr>
       <td><b>02/09/2019</b></td>
