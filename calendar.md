@@ -43,19 +43,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>26/08/2019</b></td>
-      <td>Introdução ao Tableau Parte IV (EAD)</td>
+      <td>Introdução ao Tableau Parte IV</td>
     </tr>
     <tr>
       <td><b>28/08/2019</b></td>
-      <td>Tecnologias Web Parte I</td>
-    </tr>
-    <tr>
-      <td><b>03/09/2019</b></td>
-      <td>Tecnologias Web Parte II (Introdução ao D3)</td>
+      <td>>Introdução ao Tableau Parte V (EAD)</td>
     </tr>
     <tr>
       <td><b>02/09/2019</b></td>
-      <td>Abstração de Tarefas (cap.3) e Regras de ouro (Rules of Thumb) (cap.6) (EAD)</td>
+      <td>Tecnologias Web e Introdução ao D3</td>
     </tr>
     <tr>
       <td><b>04/09/2019</b></td>
