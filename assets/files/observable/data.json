@@ -1,0 +1,46 @@
+[
+    {
+        "despesa": 15,
+        "categoria": "Alimentação"
+    },
+    {
+        "despesa": 10,
+        "categoria": "Transporte"
+    },
+    {
+        "despesa": 12,
+        "categoria": "Alimentação"
+    },
+    {
+        "despesa": 5,
+        "categoria": "Transporte"
+    },
+    {
+        "despesa": 66,
+        "categoria": "Alimentação"
+    },
+    {
+        "despesa": 40,
+        "categoria": "Transporte"
+    },
+    {
+        "despesa": 30,
+        "categoria": "Diversão"
+    },
+    {
+        "despesa": 45,
+        "categoria": "Diversão"
+    },
+    {
+        "despesa": 10,
+        "categoria": "Diversão"
+    },
+    {
+        "despesa": 20,
+        "categoria": "Alimentação"
+    },
+    {
+        "despesa": 15,
+        "categoria": "Transporte"
+    }
+]
