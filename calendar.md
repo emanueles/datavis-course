@@ -55,15 +55,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>04/09/2019</b></td>
-      <td> Introdução ao D3 - parte 1 (dados, escalas e eixos) </td>
+      <td> Introdução ao D3 - parte 1 (dados) </td>
     </tr>
     <tr>
       <td><b>09/09/2019</b></td>
-      <td> Introdução ao D3 - parte 2 (updates e transitions) (EAD)</td>
+      <td> Tabelas (cap.7) (EAD)</td>
     </tr>
     <tr>
       <td><b>11/09/2019</b></td>
-      <td> Tabelas (cap.7) </td>
+      <td> Introdução ao D3 - parte 2 (escalas, eixos, updates e transitions)</td>
     </tr>
     <tr>
       <td><b>16/09/2019</b></td>
