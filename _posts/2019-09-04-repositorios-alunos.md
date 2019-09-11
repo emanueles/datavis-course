@@ -115,13 +115,13 @@ categories: repos
     </tr>
     <tr>
       <td><b>SAYONARA SANTOS ARAUJO</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://sayonarasantos.github.io/datavis-course/">Site</a></td>
+      <td><a href="https://github.com/sayonarasantos/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>TALLES FELIX GOMES</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://tallesfelix.github.io/datavis-course/">Site</a></td>
+      <td><a href="https://github.com/tallesfelix/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>VANDO ADERSON SACRAMENTO ALVES</b></td>
@@ -154,7 +154,7 @@ categories: repos
     </tr>
     <tr>
       <td><b>ARTUR DE OLIVEIRA DA ROCHA FRANCO</b></td>
-      <td><a href="">Site</a></td>
+      <td><a href="https://tushn.github.io/datavis-course2019.1/">Site</a></td>
       <td><a href="https://github.com/Tushn/datavis-course2019.1">Repo</a></td>
     </tr>
      <tr>
@@ -194,8 +194,8 @@ categories: repos
     </tr>
      <tr>
       <td><b>JOSÉ AUGUSTO CÂMARA FILHO</b></td>
-      <td><a href="https://augustocam95.github.io/datavis-course/">Site</a></td>
-      <td><a href="https://github.com/AugustoCam95/datavis-course">Repo</a></td>
+      <td><a href="https://augustocam95.github.io/datavis-course2019/">Site</a></td>
+      <td><a href="https://github.com/AugustoCam95/datavis-course2019">Repo</a></td>
     </tr>
      <tr>
       <td><b>JOSÉ SERAFIM DA COSTA FILHO</b></td>
@@ -229,8 +229,8 @@ categories: repos
     </tr>
      <tr>
       <td><b>MATHEUS GUNYICS PARANAGUÁ BARRIO</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://matheusbarrio.github.io/datavis-course/">Site</a></td>
+      <td><a href="https://github.com/matheusBarrio/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>PEDRO ALMIR MARTINS DE OLIVEIRA</b></td>
