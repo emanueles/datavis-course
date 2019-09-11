@@ -66,7 +66,7 @@ categories: repos
     <tr>
       <td><b>LUCAS NOLETO PAIVA</b></td>
       <td><a href="https://lucas-noleto.github.io/datavis-course/">Site</a></td>
-      <td><a href="https://github.com/lucas-noleto/datavis-course">Repo</a></td>>
+      <td><a href="https://github.com/lucas-noleto/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>LUCAS PRIMO FERNANDES MURARO</b></td>
@@ -128,7 +128,7 @@ categories: repos
       <td><a href="https://vandoaderson.github.io/datavis-course/">Site</a></td>
       <td><a href="https://github.com/vandoaderson/datavis-course">Repo</a></td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 
 
@@ -144,8 +144,8 @@ categories: repos
   <tbody>
     <tr>
       <td><b>ALEXANDRE BARROSO COSTA</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://alexandrebc.github.io/datavis--course/">Site</a></td>
+      <td><a href="https://github.com/alexandrebc/datavis--course">Repo</a></td>
     </tr>
     <tr>
       <td><b>ARMANDO SOARES SOUSA</b></td>
@@ -185,7 +185,7 @@ categories: repos
     <tr>
       <td><b>IGOR PEDROZA</b></td>
       <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://github.com/letreiro/datavis-course">Repo</a></td>
     </tr>
      <tr>
       <td><b>ITALO ROSSE ALVES CASTELO BRANCO</b></td>
