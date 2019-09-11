@@ -63,15 +63,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>11/09/2019</b></td>
-      <td> Introdução ao D3 - parte 2 (escalas, eixos, updates e transitions)</td>
+      <td> Introdução ao D3 - parte 2 (escalas e eixos)</td>
     </tr>
     <tr>
       <td><b>16/09/2019</b></td>
-      <td>  Visualização de dados tabulares em D3, crossfilter e dc.js (parte 1) </td>
+      <td> Introdução ao D3 - parte 3 (updates e transições) </td>
     </tr>
     <tr>
       <td><b>18/09/2019</b></td>
-      <td> Visualização de dados tabulares em D3, crossfilter e dc.js (parte 2) (EAD) </td>
+      <td> Visualização de dados tabulares em D3, crossfilter e dc.js </td>
     </tr>
     <tr>
       <td><b>23/09/2019</b></td>
@@ -87,7 +87,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>02/10/2019</b></td>
-      <td> Aula prática: Redes e Grafos </td>
+      <td> Aula prática: Redes e Grafos (EAD) </td>
     </tr>
     <tr>
       <td><b>07/10/2019</b></td>
