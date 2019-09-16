@@ -95,8 +95,8 @@ categories: repos
     </tr>
     <tr>
       <td><b>RAFAEL FERREIRA NOGUEIRA</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://rfnlindo.github.io/datavis-course/">Site</a></td>
+      <td><a href="https://github.com/rfnlindo/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>ROMULO FREIRE FERRER FILHO</b></td>
