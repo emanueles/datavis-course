@@ -71,15 +71,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>18/09/2019</b></td>
-      <td> Visualização de dados tabulares em D3, crossfilter e dc.js </td>
+      <td> Dados espaciais (cap. 8) </td>
     </tr>
     <tr>
       <td><b>23/09/2019</b></td>
-      <td>Dados espaciais (cap. 8) </td>
+      <td>Visualização de dados tabulares em D3, crossfilter e dc.js </td>
     </tr>
     <tr>
       <td><b>25/09/2019</b></td>
-      <td> Visualização de Dados espaciais em D3 + leaflet </td>
+      <td>Visualização de Dados espaciais em D3 + leaflet </td>
     </tr>
     <tr>
       <td><b>30/09/2019</b></td>
