@@ -55,13 +55,13 @@ categories: repos
     </tr>
     <tr>
       <td><b>LAILSON AZEVEDO DO REGO</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://lailson93.github.io/datavis-course/">Site</a></td>
+      <td><a href="https://github.com/lailson93/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>LEONARDO SAMPAIO DE SOUSA</b></td>
-      <td><a href="">Site</a></td>
-      <td><a href="">Repo</a></td>
+      <td><a href="https://leosampsousa.github.io/datavis-course/">Site</a></td>
+      <td><a href="https://github.com/leosampsousa/datavis-course">Repo</a></td>
     </tr>
     <tr>
       <td><b>LUCAS NOLETO PAIVA</b></td>

@@ -111,7 +111,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>23/10/2019</b></td>
-      <td> Não haverá aula - Encontros Universitários </td>
+      <td> Dúvidas sobre o Projeto Final </td>
     </tr>
     <tr>
       <td><b>28/10/2019</b></td>
