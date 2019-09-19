@@ -79,43 +79,43 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>25/09/2019</b></td>
-      <td>Visualização de Dados espaciais em D3 + leaflet </td>
+      <td> Visualização de dados tabulares em D3, crossfilter e dc.js Parte 2 (EAD) </td>
     </tr>
     <tr>
       <td><b>30/09/2019</b></td>
-      <td> Redes e Grafos (cap. 9) (EAD) </td>
+      <td> Visualização de Dados espaciais em D3 + leaflet  </td>
     </tr>
     <tr>
       <td><b>02/10/2019</b></td>
-      <td> Aula prática: Redes e Grafos (EAD) </td>
+      <td> Redes e Grafos (cap. 9) (EAD) </td>
     </tr>
     <tr>
       <td><b>07/10/2019</b></td>
-      <td> Cor (cap. 10) </td>
+      <td> Aula prática: Redes e Grafos </td>
     </tr>
     <tr>
       <td><b>09/10/2019</b></td>
-      <td> Mapas de cor em Visualizações </td>
+      <td> Cor (cap. 10) </td>
     </tr>
     <tr>
       <td><b>14/10/2019</b></td>
-      <td> Estratégias para lidar com a Complexidade (Parte I) </td>
+      <td> Mapas de cor em Visualizações </td>
     </tr>
     <tr>
       <td><b>16/10/2019</b></td>
-      <td> Estratégias para Lidar com a Complexidade (Parte II)</td>
+      <td>Estratégias para lidar com a Complexidade (Parte I) </td>
     </tr>
     <tr>
       <td><b>21/10/2019</b></td>
-      <td> Estratégias para Lidar com a Complexidade (Parte III) </td>
+      <td> Estratégias para Lidar com a Complexidade (Parte II) </td>
     </tr>
     <tr>
       <td><b>23/10/2019</b></td>
-      <td> Dúvidas sobre o Projeto Final </td>
+      <td> Estratégias para Lidar com a Complexidade (Parte III) </td>
     </tr>
     <tr>
       <td><b>28/10/2019</b></td>
-      <td> Não haverá aula - SIBGRAPI 2019</td>
+      <td> Não haverá aula - Feriado Dia do Servidor Público</td>
     </tr>
     <tr>
       <td><b>30/10/2019</b></td>
