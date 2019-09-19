@@ -49,7 +49,7 @@ O que funciona e o que não funciona nessa visualização? Use o seguinte arquiv
 
 ## Parte 3: Visualização de Dados de Inspeções de Restaurantes de NYC (apenas para a Pós-Graduação).
 
-Você irá criar visualizações usando esse[data set de resultados de inspeções de restaurantes da cidade de Nova Iorque](https://drive.google.com/open?id=1l6Cs8_QNuiRxiOnQlISmD9SA32SQQWpm). Esse data set contém informações sobre como [restaurantes em NYC](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/rs6k-p7g6) são avaliados e qual o resultado da inspeção de janeiro de 2016 a setembro de 2019.
+Você irá criar visualizações usando esse [data set de resultados de inspeções de restaurantes da cidade de Nova Iorque](https://drive.google.com/open?id=1l6Cs8_QNuiRxiOnQlISmD9SA32SQQWpm). Esse data set contém informações sobre como [restaurantes em NYC](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/rs6k-p7g6) são avaliados e qual o resultado da inspeção de janeiro de 2016 a setembro de 2019.
 
 Você deve produzir uma apresentação em pdf com as respostas das questões a seguir. Você deve construir os slides da seguinte maneira:
 
