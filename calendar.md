@@ -99,19 +99,19 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>14/10/2019</b></td>
-      <td> Mapas de cor em Visualizações </td>
+      <td> Recesso escolar alusivo ao dia do Professor </td>
     </tr>
     <tr>
       <td><b>16/10/2019</b></td>
-      <td>Estratégias para lidar com a Complexidade (Parte I) </td>
+      <td> Mapas de cor em Visualizações</td>
     </tr>
     <tr>
       <td><b>21/10/2019</b></td>
-      <td> Estratégias para Lidar com a Complexidade (Parte II) </td>
+      <td> Estratégias para lidar com a Complexidade (Parte I) </td>
     </tr>
     <tr>
       <td><b>23/10/2019</b></td>
-      <td> Estratégias para Lidar com a Complexidade (Parte III) </td>
+      <td> Estratégias para Lidar com a Complexidade (Parte II) </td>
     </tr>
     <tr>
       <td><b>28/10/2019</b></td>
