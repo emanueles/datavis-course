@@ -91,11 +91,11 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>07/10/2019</b></td>
-      <td> Aula prática: Redes e Grafos </td>
+      <td> Cor (cap. 10) </td>
     </tr>
     <tr>
       <td><b>09/10/2019</b></td>
-      <td> Cor (cap. 10) </td>
+      <td> Aula prática: Redes e Grafos </td>
     </tr>
     <tr>
       <td><b>14/10/2019</b></td>
