@@ -74,7 +74,7 @@ Apenas um membro da equipe deve submeter os arquivos pelo SIGAA.
 * Equipe 15: Igor Pedroza
 
 
-### Dia 04/12 - Qaurta-feira (Pós-Graduação)
+### Dia 04/12 - Quarta-feira (Pós-Graduação)
 * Equipe 2: Juliana e Diêgo
 * Equipe 3: Katharine
 * Equipe 6: Matheus Barrio
