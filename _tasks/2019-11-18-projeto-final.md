@@ -61,6 +61,7 @@ Apenas um membro da equipe deve submeter os arquivos pelo SIGAA.
 * Equipe 5: Saulo e Romulo
 * Equipe 8: Vando
 * Equipe 9: Manoel
+* Equipe 14: Gustavo Coutinho (Pós-Graduação)
 
 
 ### Dia 02/12 - Segunda-feira (Pós-Graduação)
@@ -70,7 +71,6 @@ Apenas um membro da equipe deve submeter os arquivos pelo SIGAA.
 * Equipe 7: Artur e Davidson
 * Equipe 9: Silvio e Paulo Mateus
 * Equipe 12: Asley
-* Equipe 13: José Serafim
 * Equipe 15: Igor Pedroza
 
 
@@ -81,4 +81,4 @@ Apenas um membro da equipe deve submeter os arquivos pelo SIGAA.
 * Equipe 8: Pedro Almir
 * Equipe 10: Italo e Felipe Jucá
 * Equipe 11: Alexandre
-* Equipe 14: Gustavo Coutinho
+* Equipe 13: José Serafim
