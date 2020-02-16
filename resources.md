@@ -107,13 +107,18 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 * [Manipulação de Dados em JavaScript](http://learnjsdata.com/)
 
 
-## Blogs
+## Blogs e outras publicações
+* [Multiple Views: Visualization Research Explained](https://medium.com/multiple-views-visualization-research-explained)
+
+* [Nightingale: The Journal of the Data Visualization Society](https://medium.com/nightingale)
 
 * [Eagereyes](https://eagereyes.org/)
 
 * [The Functional Art](http://www.thefunctionalart.com/)
 
 * [Datawrapper](https://blog.datawrapper.de/)
+
+* [Data Viz Today's blog](https://dataviztoday.com/blog)
 
 * [Vis & More](https://tamaramunzner.wordpress.com/)
 
@@ -125,6 +130,8 @@ _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 * [MUNZNER, Tamara. Visualization Analysis and Design. A K Peters Visualization series. 2014.](https://www.amazon.com.br/gp/product/1466508914/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1466508914&linkCode=as2&tag=emanueles-20&linkId=d50cdb0815367e80e4ee78178ffd922d)
 
 * [WILKE, Claus O. Fundamentals of Data Visualization. O'Reilly. 2019.](http://serialmentor.com/dataviz) *(Disponível online)*
+
+* [CAIRO, Alberto. How Charts Lie – Getting Smarter about Visual Information W. W. Norton & Company. 2019.](https://amzn.to/2SvMxm8)
 
 * [CAIRO, Alberto. The functional Art. New Riders. 2012](https://www.amazon.com.br/gp/product/B0091SXDOM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=B0091SXDOM&linkId=18ff427a4a828efb6a59fff7202a617f)
 
@@ -162,3 +169,5 @@ _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 * [storytelling with data podcast](http://www.storytellingwithdata.com/podcast/): A podcast by Cole Nussbaumer Knaflic that covers topics related to data storytelling, better presentations, and all things data viz.
 
 * [The PolicyViz Podcast](https://policyviz.com/podcast/): This series is hosted by the Jon Schwabish, an economist, data visualization and presentation skills specialist, as well as founder of [PolicyViz](https://policyviz.com/). PolicyViz is a resource that helps business professionals do a better job processing, analyzing, sharing, and presenting data. The podcast features tutorials, best practices, and some of the most prominent leaders in the fields of data visualization and presentation skills.
+
+* [Data Viz Today](https://dataviztoday.com/): A podcast hosted by Alli Torban that helps you create effective data visualizations. She shares the latest tools and methods that she’s discovered while on the job and interviewing top designers. 
