@@ -18,152 +18,161 @@ permalink: /calendar/
   <tbody>
 
     <tr>
-      <td><b>05/08/2019</b></td>
+      <td><b>17/02/2020</b></td>
       <td>Apresentação da disciplina</td>
     </tr>
     <tr>
-      <td><b>07/08/2019</b></td>
+      <td><b>19/02/2020</b></td>
       <td>Marcações e Canais (cap.5)</td>
     </tr>
     <tr>
-      <td><b>12/08/2019</b></td>
-      <td>Abstração de Dados (cap.2)</td>
+      <td><b>24/02/2020</b></td>
+      <td>Feriado: Carnaval</td>
     </tr>
     <tr>
-      <td><b>14/08/2019</b></td>
-      <td>Introdução ao Tableau Parte I (EAD)</td>
+      <td><b>26/02/2020</b></td>
+      <td>Feriado Carnaval</td>
     </tr>
     <tr>
-      <td><b>19/08/2019</b></td>
-      <td>Introdução ao Tableau Parte II</td>
+      <td><b>02/03/2020</b></td>
+      <td>Introdução ao Tableau Parte I</td>
     </tr>
     <tr>
-      <td><b>21/08/2019</b></td>
-      <td>Introdução ao Tableau Parte III</td>
+      <td><b>04/03/2020</b></td>
+      <td>Introdução ao Tableau Parte II </td>
     </tr>
     <tr>
-      <td><b>26/08/2019</b></td>
+      <td><b>09/03/2020</b></td>
+      <td>Abstração de Dados (cap.2) (EAD)</td>
+    </tr>
+    <tr>
+      <td><b>11/03/2020</b></td>
+      <td>Introdução ao Tableau Parte III (EAD)</td>
+    </tr>
+    <tr>
+      <td><b>16/03/2020</b></td>
       <td>Introdução ao Tableau Parte IV</td>
     </tr>
     <tr>
-      <td><b>28/08/2019</b></td>
-      <td>Introdução ao Tableau Parte V (EAD)</td>
+      <td><b>18/03/2020</b></td>
+      <td>Introdução ao Tableau Parte V</td>
     </tr>
     <tr>
-      <td><b>02/09/2019</b></td>
+      <td><b>23/03/2020</b></td>
       <td>Tecnologias Web</td>
     </tr>
     <tr>
-      <td><b>04/09/2019</b></td>
+      <td><b>25/03/2020</b></td>
+      <td>Feriado Estadual: Data Magna do Ceará</td>
+    </tr>
+    <tr>
+      <td><b>30/03/2020</b></td>
       <td> Introdução ao D3 - parte 1 (dados) </td>
     </tr>
     <tr>
-      <td><b>09/09/2019</b></td>
-      <td> Tabelas (cap.7) (EAD)</td>
+      <td><b>01/04/2020</b></td>
+      <td>Encontros Universitários (Não haverá aula)</td>
     </tr>
     <tr>
-      <td><b>11/09/2019</b></td>
+      <td><b>06/04/2020</b></td>
       <td> Introdução ao D3 - parte 2 (escalas e eixos)</td>
     </tr>
     <tr>
-      <td><b>16/09/2019</b></td>
+      <td><b>08/04/2020</b></td>
       <td> Introdução ao D3 - parte 3 (updates e transições) </td>
     </tr>
     <tr>
-      <td><b>18/09/2019</b></td>
-      <td> Dados espaciais (cap. 8) </td>
+      <td><b>13/04/2020</b></td>
+      <td> Tabelas (cap.7) (EAD) </td>
     </tr>
     <tr>
-      <td><b>23/09/2019</b></td>
-      <td>Visualização de dados tabulares em D3, crossfilter e dc.js </td>
+      <td><b>15/04/2020</b></td>
+      <td> Visualização de dados tabulares em D3, crossfilter e dc.js </td>
     </tr>
     <tr>
-      <td><b>25/09/2019</b></td>
-      <td> Visualização de dados tabulares em D3, crossfilter e dc.js Parte 2 (EAD) </td>
+      <td><b>20/04/2020</b></td>
+      <td> Visualização de dados tabulares em D3, crossfilter e dc.js Parte 2 (EAD)</td>
     </tr>
     <tr>
-      <td><b>30/09/2019</b></td>
+      <td><b>22/04/2020</b></td>
+      <td> Dados espaciais (cap. 8)</td>
+    </tr>
+    <tr>
+      <td><b>27/04/2020</b></td>
       <td> Visualização de Dados espaciais em D3 + leaflet  </td>
     </tr>
     <tr>
-      <td><b>02/10/2019</b></td>
+      <td><b>29/04/2020</b></td>
       <td> Redes e Grafos (cap. 9) (EAD) </td>
     </tr>
     <tr>
-      <td><b>07/10/2019</b></td>
-      <td> Cor (cap. 10) </td>
-    </tr>
-    <tr>
-      <td><b>09/10/2019</b></td>
+      <td><b>04/05/2020</b></td>
       <td> Aula prática: Redes e Grafos </td>
     </tr>
     <tr>
-      <td><b>14/10/2019</b></td>
-      <td> Recesso escolar alusivo ao dia do Professor </td>
+      <td><b>06/05/2020</b></td>
+      <td> Cor (cap. 10) </td>
     </tr>
     <tr>
-      <td><b>16/10/2019</b></td>
+      <td><b>11/05/2020</b></td>
       <td> Mapas de cor em Visualizações</td>
     </tr>
     <tr>
-      <td><b>21/10/2019</b></td>
+      <td><b>13/05/2020</b></td>
       <td> Estratégias para lidar com a Complexidade (Parte I) </td>
     </tr>
     <tr>
-      <td><b>23/10/2019</b></td>
+      <td><b>18/05/2020</b></td>
       <td> Estratégias para Lidar com a Complexidade (Parte II) </td>
     </tr>
     <tr>
-      <td><b>28/10/2019</b></td>
-      <td> Não haverá aula - Feriado Dia do Servidor Público</td>
+      <td><b>20/05/2020</b></td>
+      <td> Apresentação de Propostas de Projeto Final</td>
     </tr>
     <tr>
-      <td><b>30/10/2019</b></td>
-      <td> Não haverá aula - SIBGRAPI 2019</td>
+      <td><b>25/05/2020</b></td>
+      <td> Não haverá aula - Eurovis 2020</td>
     </tr>
     <tr>
-      <td><b>04/11/2019</b></td>
-      <td> Apresentações de artigo por alunos da pós</td>
+      <td><b>27/05/2020</b></td>
+      <td> Não haverá aula - Eurovis 2020</td>
     </tr>
     <tr>
-      <td><b>06/11/2019</b></td>
-      <td> Apresentações de artigo por alunos da pós</td>
+      <td><b>01/06/2020</b></td>
+      <td> Acompanhamento Projeto Final</td>
     </tr>
     <tr>
-      <td><b>11/11/2019</b></td>
-      <td> Apresentações de artigo por alunos da pós</td>
+      <td><b>03/06/2020</b></td>
+      <td> Acompanhamento Projeto Final</td>
     </tr>
     <tr>
-      <td><b>13/11/2019</b></td>
+      <td><b>08/06/2020</b></td>
       <td> Apresentações de artigo por alunos da pós </td>
     </tr>
     <tr>
-      <td><b>18/11/2019</b></td>
+      <td><b>10/06/2020</b></td>
       <td> Apresentações de artigo por alunos da pós </td>
     </tr>
     <tr>
-      <td><b>20/11/2019</b></td>
-      <td> Dúvidas sobre o Projeto Final</td>
+      <td><b>15/06/2020</b></td>
+      <td> Apresentação projeto final (graduação)</td>
     </tr>
     <tr>
-      <td><b>25/11/2019</b></td>
+      <td><b>17/06/2020</b></td>
       <td> Apresentação projeto final (graduação) </td>
     </tr>
     <tr>
-      <td><b>27/11/2019</b></td>
-      <td> Apresentação projeto final (graduação) </td>
-    </tr>
-    <tr>
-      <td><b>02/12/2019</b></td>
+      <td><b>22/06/2020</b></td>
       <td> Apresentação projeto final (pós-graduação) </td>
     </tr>
     <tr>
-      <td><b>04/12/2019</b></td>
+      <td><b>24/06/2020</b></td>
       <td> Apresentação projeto final (pós-graduação) </td>
     </tr>
     <tr>
-      <td><b>11/12/2019</b></td>
+      <td><b>29/06/2020</b></td>
       <td> Avaliação Final </td>
     </tr>
+    
     </tbody>
 </table>

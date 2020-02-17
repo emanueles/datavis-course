@@ -9,9 +9,9 @@ permalink: /about/
 [Departamento de Computação](http://www.dc.ufc.br)<br>
 **Código:**  CKP8533 Visualização Científica / CK0266 - Visualização de Dados<br>
 **Professora:** [Emanuele Santos](/)<br>
-**Período:** 2019.2<br>
-**Horário:** SEG-QUA 18-20<br>
-**Local:** LEC I  
+**Período:** 2020.1<br>
+**Horário:** SEG-QUA 10-12<br>
+**Local:** LEC II  
 
 ### Visão Geral e objetivos da disciplina
 
