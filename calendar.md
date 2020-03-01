@@ -35,15 +35,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>02/03/2020</b></td>
-      <td>Introdução ao Tableau Parte I</td>
+      <td>Abstração de Dados (cap.2)</td>
     </tr>
     <tr>
       <td><b>04/03/2020</b></td>
-      <td>Introdução ao Tableau Parte II </td>
+      <td>Introdução ao Tableau Parte I </td>
     </tr>
     <tr>
       <td><b>09/03/2020</b></td>
-      <td>Abstração de Dados (cap.2) (EAD)</td>
+      <td> Introdução ao Tableau Parte II (EAD)</td>
     </tr>
     <tr>
       <td><b>11/03/2020</b></td>
