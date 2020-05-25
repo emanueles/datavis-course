@@ -95,66 +95,74 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>20/05/2020</b></td>
-      <td> Visualização de Dados espaciais em D3 + leaflet  </td>
+      <td> Encontros Universitários 2019 (não haverá aula)  </td>
     </tr>
     <tr>
       <td><b>25/05/2020</b></td>
-      <td> Redes e Grafos (cap. 9)</td>
+      <td> Visualização de Dados espaciais em D3 + leaflet  </td>
     </tr>
     <tr>
       <td><b>27/05/2020</b></td>
-      <td> Aula prática: Redes e Grafos </td>
+      <td> Antecipação do feriado devido à pandemia</td>
     </tr>
     <tr>
       <td><b>01/06/2020</b></td>
-      <td> Cor (cap. 10) </td>
+      <td> Redes e Grafos (cap. 9)</td>
     </tr>
     <tr>
       <td><b>03/06/2020</b></td>
-      <td> Mapas de cor em Visualizações</td>
+      <td> Aula prática: Redes e Grafos </td>
     </tr>
     <tr>
       <td><b>08/06/2020</b></td>
-      <td> Estratégias para lidar com a Complexidade (Parte I) </td>
+      <td> Cor (cap. 10) </td>
     </tr>
     <tr>
       <td><b>10/06/2020</b></td>
-      <td> Apresentação de Propostas de Projeto Final </td>
+      <td> Mapas de cor em Visualizações</td>
     </tr>
     <tr>
       <td><b>15/06/2020</b></td>
-      <td> Estratégias para Lidar com a Complexidade (Parte II)</td>
+      <td> Apresentação de Propostas de Projeto Final </td>
     </tr>
     <tr>
       <td><b>17/06/2020</b></td>
-      <td> Migrando do Observable para outro site </td>
+      <td> Estratégias para lidar com a Complexidade (Parte I) </td>
     </tr>
     <tr>
       <td><b>22/06/2020</b></td>
-      <td> Acompanhamento Projeto Final</td>
+      <td> Estratégias para Lidar com a Complexidade (Parte II)</td>
     </tr>
     <tr>
       <td><b>24/06/2020</b></td>
-      <td> Apresentações de artigo por alunos da pós</td>
+      <td> Migrando do Observable para outro site </td>
     </tr>
     <tr>
       <td><b>29/06/2020</b></td>
-      <td> Apresentações de artigo por alunos da pós </td>
-    </tr>
-    <tr>
-      <td><b>01/07/2020</b></td>
       <td> Acompanhamento Projeto Final </td>
     </tr>
     <tr>
+      <td><b>01/07/2020</b></td>
+      <td> Migrando do Observable para outro site </td>
+    </tr>
+    <tr>
       <td><b>06/07/2020</b></td>
-      <td> Apresentação projeto final (graduação)</td>
+      <td> Apresentações de artigo por alunos da pós</td>
     </tr>
     <tr>
       <td><b>08/07/2020</b></td>
-      <td> Apresentação projeto final (pós-graduação) </td>
+      <td> Apresentações de artigo por alunos da pós </td>
     </tr>
     <tr>
       <td><b>13/07/2020</b></td>
+      <td> Apresentação projeto final (graduação)</td>
+    </tr>
+    <tr>
+      <td><b>15/07/2020</b></td>
+      <td> Apresentação projeto final (pós-graduação) </td>
+    </tr>
+    <tr>
+      <td><b>20/07/2020</b></td>
       <td> Avaliação Final </td>
     </tr>
     </tbody>
