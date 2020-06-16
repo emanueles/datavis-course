@@ -135,15 +135,15 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>24/06/2020</b></td>
-      <td> Migrando do Observable para outro site </td>
+      <td> Interação em D3 e Observable </td>
     </tr>
     <tr>
       <td><b>29/06/2020</b></td>
-      <td> Acompanhamento Projeto Final </td>
+      <td> Migrando do Observable para outro site </td>
     </tr>
     <tr>
       <td><b>01/07/2020</b></td>
-      <td> Migrando do Observable para outro site </td>
+      <td> Acompanhamento Projeto Final </td>
     </tr>
     <tr>
       <td><b>06/07/2020</b></td>
@@ -155,7 +155,7 @@ permalink: /calendar/
     </tr>
     <tr>
       <td><b>13/07/2020</b></td>
-      <td> Apresentação projeto final (graduação)</td>
+      <td> Apresentação projeto final (graduação e pós-graduação)</td>
     </tr>
     <tr>
       <td><b>15/07/2020</b></td>
