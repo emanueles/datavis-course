@@ -161,6 +161,7 @@ _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 
 * [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary): A poster and [web site](http://ft-interactive.github.io/visual-vocabulary/) to assist designers and journalists to select the optimal symbology for data visualisations, by the [Financial Times Visual Journalism Team](https://www.ft.com/visual-journalism). [Versão para o Tableau](http://www.vizwiz.com/2018/07/visual-vocabulary.html).
 
+* [From Data to Viz](https://www.data-to-viz.com/) leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
 
 ## Podcasts relacionados
 
