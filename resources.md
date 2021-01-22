@@ -155,6 +155,8 @@ _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 
 * [The Hitchhiker’s Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
 
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
+
 * [24 Data Viz Sites to Improve Your Next Data Design Project](https://uxplanet.org/21-data-visualization-links-e9c33f845b4c)
 
 * [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
