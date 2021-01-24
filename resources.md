@@ -26,6 +26,10 @@ Alguns repositórios de dados conhecidos. Se você souber de algum que não est�
 
 * [DataIsPlural](http://tinyletter.com/data-is-plural/archive) Lista de dados interessantes organizada por [Jeremy Singer-Vine](https://twitter.com/jsvine)
 
+* [Data sets](https://github.com/the-pudding/data) criados para as histórias no [The Pudding](https://pudding.cool/), abertos ao público
+
+* [data.world](https://data.world/)
+
 * [The World Bank Data](http://data.worldbank.org/) Dados do Banco Mundial
 
 * [USGS Earthquakes](http://earthquake.usgs.gov/data/) Dados de terremotos
