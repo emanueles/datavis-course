@@ -155,6 +155,8 @@ _(Comprando pelos links abaixo, você me ajuda com uma pequena comissão \o/)_
 
 * [WONG, Dona M. The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures. W. W. Norton & Company. 2013](https://www.amazon.com.br/gp/product/0393347281/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=emanueles-20&creative=9325&linkCode=as2&creativeASIN=0393347281&linkId=e3ce0d3dc80c5f824031bc76244284b1)
 
+* [KABACOFF, Rob. Data Visualization with R. 2020](https://rkabacoff.github.io/datavis/) *(Disponível online)*
+
 ## Posts e tutoriais
 
 * [The Hitchhiker’s Guide to d3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
