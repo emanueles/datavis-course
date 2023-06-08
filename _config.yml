@@ -14,15 +14,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Visualização de Dados
-email: emanuele@dc.ufc.br
-author: Emanuele Santos
+author:
+  name: Emanuele Santos
+  email: emanuele@dc.ufc.br
+  
 description: > # this means to ignore newlines until "baseurl:"
-  Página da Disciplina de Visualização de Dados, do curso de Ciência da Computação (Graduação e Pós) da Universidade Federal do Ceará.
+  Página da Disciplina de Visualização de Dados, do curso de Ciência da 
+  Computação (Graduação e Pós) da Universidade Federal do Ceará.
 baseurl: "/datavis-course" # the subpath of your site, e.g. /blog
 url: "https://emanueles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: emanueles
-github_username:  emanueles
+
 google_analytics: G-BZZ2FTQ9ST
+
+minima: 
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github,         user_url: "https://github.com/emanueles" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/prof.manu.ufc" }
+    - { platform: twitter,        user_url: "https://twitter.com/emanueles" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@emanueles" }
+  
 
 show_drafts: false
 
@@ -36,9 +47,8 @@ collections:
 markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
-  - jekyll-remote-theme
-gems:
   - jekyll-feed
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock
