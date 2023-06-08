@@ -36,6 +36,7 @@ minima:
   
 
 show_drafts: false
+show_excerpts: false # set to true to show excerpts on the homepage
 
 collections:
   tasks:
@@ -44,8 +45,11 @@ collections:
       paginate: 5
 
 # Build settings
-markdown: kramdown
+load_paths:
+    - _sass
+    
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
