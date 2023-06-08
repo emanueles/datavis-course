@@ -22,6 +22,7 @@ baseurl: "/datavis-course" # the subpath of your site, e.g. /blog
 url: "https://emanueles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: emanueles
 github_username:  emanueles
+google_analytics: G-BZZ2FTQ9ST
 
 show_drafts: false
 
@@ -33,7 +34,9 @@ collections:
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 gems:
   - jekyll-feed
 exclude:
