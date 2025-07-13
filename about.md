@@ -9,7 +9,7 @@ permalink: /about/
 [Departamento de Computação](http://www.dc.ufc.br)<br>
 **Código:**  CKP8533 Visualização Científica / CK0266 - Visualização de Dados<br>
 **Professora:** [Emanuele Santos](/)<br>
-**Período:** 2021.2<br>
+**Período:** 2025.1<br>
 **Horário:** SEG-QUA 16-18<br>
 **Local:** Google Classroom  
 
